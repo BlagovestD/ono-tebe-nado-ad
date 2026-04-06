@@ -1,1 +1,1 @@
-https://github.com/BlagovestD/ono-tebe-nado-ad.git
+https://github.com/BlagovestD/ono-tebe-nado-ad.git 
