@@ -233,6 +233,15 @@
     width: 148px;
 }
 
+.about__column {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer__address {
+    justify-self: start;
+}
+
 .about__title {
     margin-top: 101px;
     font-size: 40px;
